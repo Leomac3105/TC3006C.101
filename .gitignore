@@ -1,2 +1,4 @@
 python_postgress.ipynb
 archive/
+processed_features.csv
+processed_target.csv
