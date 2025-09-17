@@ -2,3 +2,5 @@ python_postgress.ipynb
 archive/
 processed_features.csv
 processed_target.csv
+Base_procesado.csv
+dbstuff/python_postgress_3.ipynb
